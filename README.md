@@ -1,2 +1,2 @@
 # navbar-website
-it is a navbar for your website with framework boostrap
+it's a navbar for your website with framework boostrap
